@@ -127,4 +127,57 @@ $(window).load(function() {
 	});
 
 });
+/******************************************************************************************************************************
+Interactive Buttons
+*******************************************************************************************************************************/ 
+function si(id) {
 
+	var elemento = document.getElementById(id);
+	elemento.style.display = "none";
+	
+	document.getElementById('si').style.display = 'block';
+	element.src="https://assets5.lottiefiles.com/packages/lf20_bnysvijm.json";
+}
+
+	function no(id) {
+		var elemento = document.getElementById(id);
+		elemento.style.display = "none";
+
+		document.getElementById('no').style.display = 'block';
+		element.src="https://assets5.lottiefiles.com/packages/lf20_hfnjm1i3.json";
+}
+
+
+	  function si2(id) {
+
+		var elemento = document.getElementById(id);
+		elemento.style.display = "none";
+
+		document.getElementById('si2').style.display = 'block';
+		element.src="https://assets5.lottiefiles.com/packages/lf20_bnysvijm.json";
+		}
+
+	  function no2(id) {
+		  var elemento = document.getElementById(id);
+		  elemento.style.display = "none";
+
+		  document.getElementById('no2').style.display = 'block';
+		  element.src="https://assets5.lottiefiles.com/packages/lf20_hfnjm1i3.json";
+	  }
+
+	  function si3(id) {
+
+		  var elemento = document.getElementById(id);
+		  elemento.style.display = "none";
+
+		  document.getElementById('si3').style.display = 'block';
+		  element.src="https://assets5.lottiefiles.com/packages/lf20_bnysvijm.json";
+		  }
+
+		  function no3(id) {
+			var elemento = document.getElementById(id);
+			elemento.style.display = "none";
+
+			document.getElementById('no3').style.display = 'block';
+			element.src="https://assets5.lottiefiles.com/packages/lf20_hfnjm1i3.json";
+		  }
