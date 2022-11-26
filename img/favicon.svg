@@ -1,23 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <!-- Creator: CorelDRAW 2020 (64-Bit) -->
-<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="215.9mm" height="279.4mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
-viewBox="0 0 21590 27940"
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="1000mm" height="500mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 100000 50000"
  xmlns:xlink="http://www.w3.org/1999/xlink"
  xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
  <defs>
   <style type="text/css">
    <![CDATA[
-    .fil0 {fill:#0095E1}
-    .fil1 {fill:#737373}
-    .fil2 {fill:#FA83C5}
+    .fil0 {fill:#1791C0}
+    .fil1 {fill:#555655}
+    .fil2 {fill:#F482B9}
    ]]>
   </style>
  </defs>
  <g id="Capa_x0020_1">
   <metadata id="CorelCorpID_0Corel-Layer"/>
-  <circle class="fil0" cx="14000" cy="12989.85" r="6500"/>
-  <circle class="fil1" cx="11370.73" cy="12989.85" r="6500"/>
-  <circle class="fil2" cx="9240.73" cy="12989.85" r="6500"/>
+  <g id="_1442291630512">
+   <path class="fil0" d="M71798.94 6598.76c11124.66,0 20143.02,9018.32 20143.02,20143.02 0,11124.7 -9018.36,20143.02 -20143.02,20143.02 -11124.7,0 -20143.07,-9018.32 -20143.07,-20143.02 0,-11124.7 9018.37,-20143.02 20143.07,-20143.02z"/>
+   <path class="fil1" d="M59359.86 44406.88c-2988.46,1656.66 -6349.27,2525.88 -9766.2,2525.88 -11124.71,0 -20143.07,-9018.32 -20143.07,-20143.02 0,-11124.7 9018.36,-20143.02 20143.07,-20143.02 3218.85,0 7405.96,1025.18 10265.36,2503.44 -12225.52,8171.88 -15192.11,25210.05 -499.16,35256.72z"/>
+   <path class="fil2" d="M37154.57 44406.88c-2988.45,1656.66 -6349.27,2525.88 -9766.2,2525.88 -11124.7,0 -20143.07,-9018.32 -20143.07,-20143.02 0,-11124.7 9018.37,-20143.02 20143.07,-20143.02 3218.86,0 7405.97,1025.18 10265.37,2503.44 -12225.52,8171.88 -15192.11,25210.05 -499.17,35256.72z"/>
+  </g>
  </g>
 </svg>

@@ -41,12 +41,6 @@
 	margin-left: -1em;
 }
 
-/*#ocultarno {
-	position: relative;
-}*/
-
-
- 
 .decision{
 	border-radius: 50% !important;
 	margin-right: 2em;;
@@ -59,16 +53,14 @@
 }
 
 a {
-	/*color: #FA83C5;*/
 	-webkit-transition:all 0.5s;
 	-moz-transition:all 0.5s;
 	-o-transition:all 0.5s;
 	transition:all 0.5s;
-	border-bottom: 1px dashed;
 	outline:none!important;
 }
 a:hover,a:focus,a:active {
-	color:#0D0D0D;
+	color:#737373;
 	text-decoration:none;
 	outline:none!important;
 }
