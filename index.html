@@ -622,13 +622,13 @@
                 <div class="row contact-details">
     
             <div class="col-md-12 contact">
-               <form role="form" id="form">
+               <form role="form" id="form" method="POST">
         
                                 <div class="row">
                                     <div class="col-md-6">
                                         <div class="form-group">
-                                          <label for="nombres">Nombres <b style="color: #0095e1;">*</b></label>
-                                            <input name="nombres" type="text" class="form-control" placeholder="Nombres" required >
+                                          <label for="nombre">Nombres <b style="color: #0095e1;">*</b></label>
+                                            <input name="nombre" type="text" class="form-control" placeholder="Nombres" required >
                                         </div>
                                     </div>
                                     <div class="col-md-6">
@@ -718,9 +718,7 @@
                   event.preventDefault()
                   const form = new FormData(this);
     
-                  $a.setAttribute('href',`mailto:nplinesnp@gmail.com?
-                  subject=
-                  ${form.get('nombres')}
+                  $a.setAttribute('href',`mailto:nplinesnp@gmail.com?subject=${form.get('nombre')} (GitHub Page)
                   &body=
                   ${form.get('correo')}
                   ${form.get('telefono')}
